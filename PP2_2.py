@@ -20,7 +20,7 @@ def q2():
 
   num= float(input("Input a number: "))
 
-  if num>= 0:
+  if num> 0:
     print("Positive")
 
   else: 
